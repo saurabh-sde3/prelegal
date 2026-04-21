@@ -1,6 +1,10 @@
 # prelegal
-This will be checking all the require prelegal tasks
-this is for building a simple hello world page
+
+This project focuses on handling required prelegal tasks and currently includes work toward a simple hello world page.
+
+## Project Status
+
+This project is **in progress** and is expected to be completed within **1 week**.
 
 ## Author
 
